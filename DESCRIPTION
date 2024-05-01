@@ -1,0 +1,11 @@
+Package: mycglasso
+Title: It utilizes coordinate descent (CD) and ADMM algorithm to solve the optimization problem.
+Version: 0.0.0.9000
+Authors@R: 
+    person("Yunyi", "Wang", , "yunyi.wang@uth.tmc.edu", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-9079-6801"))
+Description: It utilizes coordinate descent (CD) and ADMM algorithm to solve the optimization problem based on the LASSO method.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
